@@ -23,3 +23,7 @@ The project implements a simple "Store" resource.
 
 - `api/`: Django app containing Models, Views, and Serializers.
 - `azure_project/`: Project settings and URL configuration.
+
+## Env activation
+
+- .env\Scripts\activate.bat
